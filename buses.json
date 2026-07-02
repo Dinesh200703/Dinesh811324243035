@@ -1,0 +1,14 @@
+{
+    "Dinesh Travels": {
+        "route": "Chennai - Trichy",
+        "seats": 50
+    },
+    "Abishek express": {
+        "route": "chennai to kumuli",
+        "seats": 30
+    },
+    "Harrish &co": {
+        "route": "Trichy to Madhavaram",
+        "seats": 50
+    }
+}
